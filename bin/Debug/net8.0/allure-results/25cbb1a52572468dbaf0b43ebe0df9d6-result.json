@@ -1,0 +1,89 @@
+{
+  "uuid": "02353b8a-6222-4dad-b51a-c49c457d93d5-tr-0-1001",
+  "historyId": "PlaywrightTests.Tests.FloatNumber",
+  "fullName": "PlaywrightTests.Tests.FloatNumber",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#22"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "FloatNumber",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FloatNumber"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "FloatNumber",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c6d12c71e87e4cc1904e1abe89d6d39a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736378747700,
+      "stop": 1736378751539
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "5.5"
+    }
+  ],
+  "start": 1736378747700,
+  "stop": 1736378751541
+}

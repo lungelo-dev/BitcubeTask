@@ -1,0 +1,89 @@
+{
+  "uuid": "5543ab38-42ad-4129-9995-63311255b2df-tr-0-1009",
+  "historyId": "PlaywrightTests.Tests.NegativeNumberInput",
+  "fullName": "PlaywrightTests.Tests.NegativeNumberInput",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#22"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "NegativeNumberInput",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "NegativeNumberInput"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "NegativeNumberInput",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "6696d374f49b4849a90926054d49327c-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736378774730,
+      "stop": 1736378777933
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "-5"
+    }
+  ],
+  "start": 1736378774730,
+  "stop": 1736378777933
+}

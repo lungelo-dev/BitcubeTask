@@ -1,0 +1,89 @@
+{
+  "uuid": "8d2a847c-8234-4a06-941d-6e29098c310f-tr-0-1006",
+  "historyId": "PlaywrightTests.Tests.ZeroInput",
+  "fullName": "PlaywrightTests.Tests.ZeroInput",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#22"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "ZeroInput",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "ZeroInput"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ZeroInput",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "be464b46eb504feea06aa6055dec7c42-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736378764708,
+      "stop": 1736378767938
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "0"
+    }
+  ],
+  "start": 1736378764708,
+  "stop": 1736378767938
+}

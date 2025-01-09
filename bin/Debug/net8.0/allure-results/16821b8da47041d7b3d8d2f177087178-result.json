@@ -1,0 +1,89 @@
+{
+  "uuid": "57f4a124-50c9-4779-be7c-24c429932082-tr-0-1002",
+  "historyId": "PlaywrightTests.Tests.InvalidInput_V",
+  "fullName": "PlaywrightTests.Tests.InvalidInput_V",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#22"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "InvalidInput_V",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "InvalidInput_V"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "InvalidInput_V",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7d928523a21044de81abea98cf0e6603-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736378751550,
+      "stop": 1736378754996
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "V"
+    }
+  ],
+  "start": 1736378751550,
+  "stop": 1736378754996
+}
