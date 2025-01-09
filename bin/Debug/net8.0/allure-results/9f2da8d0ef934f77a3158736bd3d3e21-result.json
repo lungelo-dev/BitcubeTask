@@ -1,0 +1,110 @@
+{
+  "uuid": "95384a17-1817-4c54-8c78-2107c10306f6-tr-0-1008",
+  "historyId": "PlaywrightTests.Tests.LargeNumberInput",
+  "fullName": "PlaywrightTests.Tests.LargeNumberInput",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#24"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "LargeNumberInput",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "LargeNumberInput"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LargeNumberInput",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "FactorialInputs",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "999999999"
+            }
+          ],
+          "start": 1736386942801,
+          "stop": 1736386942802
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "b50d800ab85348328a2ad25a934d8ec8-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736386942599,
+      "stop": 1736386945640
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "999999999"
+    }
+  ],
+  "start": 1736386942599,
+  "stop": 1736386945641
+}

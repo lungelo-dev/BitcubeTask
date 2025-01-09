@@ -1,0 +1,84 @@
+{
+  "uuid": "5f4a3fa4-5fe4-4bc3-bcd5-5f71148f336c-tr-0-1011",
+  "historyId": "PlaywrightTests.Tests.StyleValidationTest",
+  "fullName": "PlaywrightTests.Tests.StyleValidationTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#24"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "StyleValidationTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Validate input field style for invalid input"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "StyleValidationTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "StyleValidationTest"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "StyleValidationTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c35a8c8c271346dc8151a095dbe37725-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736386952228,
+      "stop": 1736386955813
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736386952228,
+  "stop": 1736386955813
+}

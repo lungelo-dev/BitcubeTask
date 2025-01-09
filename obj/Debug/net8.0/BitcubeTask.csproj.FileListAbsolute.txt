@@ -445,3 +445,4 @@ C:\Users\User\source\repos\BitcubeTask\obj\Debug\net8.0\refint\BitcubeTask.dll
 C:\Users\User\source\repos\BitcubeTask\obj\Debug\net8.0\BitcubeTask.pdb
 C:\Users\User\source\repos\BitcubeTask\obj\Debug\net8.0\BitcubeTask.genruntimeconfig.cache
 C:\Users\User\source\repos\BitcubeTask\obj\Debug\net8.0\ref\BitcubeTask.dll
+C:\Users\User\source\repos\BitcubeTask\obj\Debug\net8.0\BitcubeTask.sourcelink.json

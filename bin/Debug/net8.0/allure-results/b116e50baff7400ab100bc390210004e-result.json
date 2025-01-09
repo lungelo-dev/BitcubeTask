@@ -1,0 +1,110 @@
+{
+  "uuid": "9965dc9a-0ddf-4f3f-96e8-2576de9dca87-tr-0-1006",
+  "historyId": "PlaywrightTests.Tests.ZeroInput",
+  "fullName": "PlaywrightTests.Tests.ZeroInput",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "16"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "ZeroInput",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "ZeroInput"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ZeroInput",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "FactorialInputs",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "0"
+            }
+          ],
+          "start": 1736386994829,
+          "stop": 1736386994830
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0aba3ee0dc2a4794b9058e754491cae4-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736386994599,
+      "stop": 1736386997887
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "0"
+    }
+  ],
+  "start": 1736386994599,
+  "stop": 1736386997887
+}

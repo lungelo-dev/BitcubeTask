@@ -1,0 +1,119 @@
+{
+  "uuid": "15cf2160-326f-497b-aab0-98735b9391d6-tc-0-1000",
+  "name": "PlaywrightTests.Tests.FactorialOf12",
+  "children": [
+    "7db5c340-f637-4f89-b55d-d082891f8de6-tr-0-1013"
+  ],
+  "befores": [
+    {
+      "name": "WorkerSetup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736387010914,
+      "stop": 1736387010914
+    },
+    {
+      "name": "PlaywrightSetup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736387010914,
+      "stop": 1736387010914
+    },
+    {
+      "name": "BrowserSetup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736387010914,
+      "stop": 1736387010914
+    },
+    {
+      "name": "ContextSetup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736387010914,
+      "stop": 1736387010914
+    },
+    {
+      "name": "PageSetup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736387010914,
+      "stop": 1736387010914
+    }
+  ],
+  "afters": [
+    {
+      "name": "WorkerTeardown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736387010914,
+      "stop": 1736387010914
+    },
+    {
+      "name": "BrowserTearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1736387010914,
+      "stop": 1736387010914
+    }
+  ],
+  "links": [],
+  "start": 1736387007427,
+  "stop": 1736387010915
+}

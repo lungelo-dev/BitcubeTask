@@ -1,0 +1,110 @@
+{
+  "uuid": "74e91a2a-97b6-4d39-9461-7a78b62b7fba-tr-0-1002",
+  "historyId": "PlaywrightTests.Tests.InvalidInput_V",
+  "fullName": "PlaywrightTests.Tests.InvalidInput_V",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#24"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "InvalidInput_V",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "InvalidInput_V"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "InvalidInput_V",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "FactorialInputs",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "V"
+            }
+          ],
+          "start": 1736386923357,
+          "stop": 1736386923358
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5d33cd7f09bf4a709bcd348271bb50e1-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736386923105,
+      "stop": 1736386926551
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "V"
+    }
+  ],
+  "start": 1736386923105,
+  "stop": 1736386926552
+}

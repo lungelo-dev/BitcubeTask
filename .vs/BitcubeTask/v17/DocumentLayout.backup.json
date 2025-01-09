@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BitcubeTask",
+              "Title": "BitcubeTask.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BitcubeTask\\BitcubeTask.csproj",
               "RelativeDocumentMoniker": "BitcubeTask.csproj",
               "ToolTip": "C:\\Users\\User\\source\\repos\\BitcubeTask\\BitcubeTask.csproj",
               "RelativeToolTip": "BitcubeTask.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T20:38:47.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T20:38:47.466Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Tests.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\BitcubeTask\\Tests.cs",
               "RelativeToolTip": "Tests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T19:43:08.469Z",
               "EditorCaption": ""

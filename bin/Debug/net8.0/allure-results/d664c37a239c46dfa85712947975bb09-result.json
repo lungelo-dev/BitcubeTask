@@ -1,0 +1,84 @@
+{
+  "uuid": "c7267ce1-9a3e-41ce-abc8-3988914cac1b-tr-0-1012",
+  "historyId": "PlaywrightTests.Tests.CaptureConsoleMessages",
+  "fullName": "PlaywrightTests.Tests.CaptureConsoleMessages",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#24"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CaptureConsoleMessages"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Capture console messages during test execution"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "CaptureConsoleMessages",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "CaptureConsoleMessages"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "CaptureConsoleMessages",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "ead1aea6281945b784fb38f7c0f8bb08-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736386915849,
+      "stop": 1736386919747
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736386915849,
+  "stop": 1736386919748
+}

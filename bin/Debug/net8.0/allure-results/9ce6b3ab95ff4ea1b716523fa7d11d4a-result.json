@@ -1,0 +1,110 @@
+{
+  "uuid": "7903dc3d-1f96-4fae-845a-ffe20970e7be-tr-0-1009",
+  "historyId": "PlaywrightTests.Tests.NegativeNumberInput",
+  "fullName": "PlaywrightTests.Tests.NegativeNumberInput",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#24"
+    },
+    {
+      "name": "host",
+      "value": "LUNGELO"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FactorialInputs"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Playwright"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "story",
+      "value": "Test various inputs for factorial calculation"
+    },
+    {
+      "name": "suite",
+      "value": "Factorial Calculator Tests"
+    }
+  ],
+  "links": [],
+  "name": "NegativeNumberInput",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "NegativeNumberInput"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "NegativeNumberInput",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "FactorialInputs",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "-5"
+            }
+          ],
+          "start": 1736386945900,
+          "stop": 1736386945901
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "06411832f87b488c9e57d23877e98f56-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1736386945654,
+      "stop": 1736386948972
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "-5"
+    }
+  ],
+  "start": 1736386945654,
+  "stop": 1736386948972
+}

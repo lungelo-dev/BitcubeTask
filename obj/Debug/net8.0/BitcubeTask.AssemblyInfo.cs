@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitcubeTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adeed2551a3c8764a685cfd4850f7e37bf859dc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitcubeTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitcubeTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
